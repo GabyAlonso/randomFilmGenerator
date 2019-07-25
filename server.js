@@ -1,9 +1,11 @@
+require('./config');
+
 const express = require('express');
 const Titles = require('./Titles.js');
 var cors = require('cors');
 
 var app = express();
-const port = 3000;
+const port = process.env.PORT;
 
 app.use(cors());
 
