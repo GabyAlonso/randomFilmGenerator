@@ -1,0 +1,66 @@
+[{
+    "order": 0,
+    "items": [
+        "Attack of the", 
+        "The Night of the",
+        "Revenge of the",
+        "The",
+        "The Curse of the",
+        "Invasion of the",
+        ""                
+    ]
+},
+{
+    "order": 1,
+    "items": [
+        "Killer", 
+        "Evil",
+        "Bloodsucking",
+        "Bodysnatching",
+        "Slightly Flustered",
+        "Reasonably Upset but not Really Evil",
+        "Undead",
+        "Giant",
+        "50 Foot",
+        "Homicidal"
+    ]
+},
+{
+    "order": 2,
+    "items": [
+        "Zombies", 
+        "Rabbit",
+        "Garden Gnomes",
+        "Body Snatchers",
+        "Postal Workers",
+        "Badgers",
+        "QCs",
+        "Alien Invaders",
+        "Vampires",
+        "Creature",
+        "Witches",
+        "Werewolves",
+        "Demon",
+        "Robot",
+        "Ducks"
+    ]
+},
+{
+    "order": 3,
+    "items": [
+        "from Outer Space", 
+        "from Mars",
+        "from the Center of the Earth",
+        "from Planet Z",
+        "that Fell on Earth",
+        "who Would Rather be Somewhere Else",
+        "Part II - The Reckoning",
+        "III - The Final Confrontation",
+        "in the Bermuda Triangle",
+        "from Hell",
+        "of the Deep",
+        ": Evil and Loving it",
+        ": No More Mr Nice Guy",
+        ""
+    ]
+}]
