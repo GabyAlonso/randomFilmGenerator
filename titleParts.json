@@ -7,6 +7,9 @@
         "The",
         "The Curse of the",
         "Invasion of the",
+        "Earth against",
+        "Ducks vs.",
+        "Return of the",
         ""                
     ]
 },
@@ -22,7 +25,12 @@
         "Undead",
         "Giant",
         "50 Foot",
-        "Homicidal"
+        "Homicidal",
+        "Mutant",
+        "Cursed",
+        "Reanimated",
+        "Demon",
+        "Disembodied"
     ]
 },
 {
@@ -34,15 +42,19 @@
         "Body Snatchers",
         "Postal Workers",
         "Badgers",
-        "QCs",
         "Alien Invaders",
         "Vampires",
         "Creature",
         "Witches",
         "Werewolves",
-        "Demon",
+        "Demons",
         "Robot",
-        "Ducks"
+        "Ducks",
+        "Mutants",
+        "Space Mutants",
+        "Mummy",
+        "Brain",
+        "Spiders"
     ]
 },
 {
@@ -56,11 +68,13 @@
         "who Would Rather be Somewhere Else",
         "Part II - The Reckoning",
         "III - The Final Confrontation",
-        "in the Bermuda Triangle",
+        "of the Bermuda Triangle",
         "from Hell",
         "of the Deep",
-        ": Evil and Loving it",
-        ": No More Mr Nice Guy",
+        "- Evil and Loving it",
+        "- No More Mr Nice Guy",
+        "in Space",
+        "from the Dark Side of the Moon",
         ""
     ]
 }]
