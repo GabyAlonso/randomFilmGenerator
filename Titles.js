@@ -1,10 +1,13 @@
-var random = require("random");
 var titleParts = require("./titleParts.json");
+
+randomEntry= (array) => {
+  return array[~~(Math.random() * array.length)];
+}
 
 getTitle = () => {
     var s = [];
     titleParts.forEach(element => {
-        var x = element.items[random.int(0, element.items.length - 1)];    
+        var x = randomEntry(element.items);
         if(x.length > 0)
             s.push(x);
     });
@@ -28,7 +31,7 @@ exports.getSome = () =>  {
         for(i = 1; i < 11; i++) {
             arr.push({ id: i, title: getTitle() });
         }
-       
+
         resolve(arr);
     });
 }
